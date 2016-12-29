@@ -1,3 +1,6 @@
 [submodule "webui"]
 	path = webui
 	url = https://github.com/gaconkzk/webui
+[submodule "resource"]
+	path = resource
+	url = https://github.com/gaconkzk/resource
