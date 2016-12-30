@@ -4,3 +4,6 @@
 [submodule "resource"]
 	path = resource
 	url = https://github.com/gaconkzk/resource
+[submodule "oauth2"]
+	path = oauth2
+	url = https://github.com/gaconkzk/oauth2.git
